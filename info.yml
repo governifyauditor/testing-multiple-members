@@ -12,13 +12,13 @@ project:
     codeclimate:
       url: 'https://codeclimate.com/github/cesgarpas/eagle-testing'
   members:
-    member1:
+    werwer:
       name: 'Cesar'
       surname: 'Garcia' 
       githubUsername: 'cesgarpas'
       pivotalUsername: 'cesgarpas'
       herokuEmail: 'emmm@email.com'
-    member1:
+    qewrqew:
       name: 'Paco'
       surname: 'Domingo' 
       githubUsername: 'alexgue'
